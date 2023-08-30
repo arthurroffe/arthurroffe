@@ -18,8 +18,11 @@
 正在新學習: Node.js
 ### 目前正在製作
 #使用Django架設的API
+正在進行  
 - [long-care-api](https://github.com/arthurroffe/ltc-in-zeabur)
 - [repice-api](https://github.com/arthurroffe/django-repice-api)
+已經完成
+- [article-CRUD-api](https://github.com/arthurroffe/article-CRUD-api)
 
 
 ### 聯絡方式
